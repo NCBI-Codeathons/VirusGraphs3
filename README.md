@@ -35,8 +35,7 @@ Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA, US
 
 ### Reference graphs
 
-For approximate k-mer graphs: [original SWIGG](https://github.com/NCBI-Codeathons/SWIGG)
-[implemented SWIGG](https://github.com/NCBI-Codeathons/Virus_Graphs).
+For approximate k-mer graphs: [original SWIGG](https://github.com/NCBI-Codeathons/SWIGG), [implemented SWIGG](https://github.com/NCBI-Codeathons/Virus_Graphs).
 For nucleobase graphs: [NovoGene](https://github.com/NCBI-Hackathons/NovoGraph)
 [VG](https://github.com/vgteam/vg).
 
