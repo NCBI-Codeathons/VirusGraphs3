@@ -27,7 +27,7 @@ Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA, US
 
 ## Limitations of virus graphs
 
-![](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/limit_of_linear.pdf)
+![](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/limit_of_linear.png)
 
 ## Workflow
 
