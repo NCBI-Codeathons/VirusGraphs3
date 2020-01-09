@@ -25,9 +25,10 @@ Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA, US
 
 
 
-## Limitations of virus graphs
+## Linear reference genomes aren't great..
 
 ![](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/limit_of_linear.png)
+Linear references are the gold standard for genomics applications, including capturing viral genome information and viral sequence recovery. Examples include HIV sequence detection and HIV genome assembly. HIV genome assembly can be loosely classified into whole (reference) genome assebly and HIV genotyping (partial assembly).
 
 ## Workflow
 
