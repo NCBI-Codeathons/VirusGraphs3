@@ -4,7 +4,9 @@ Solidifying the VirusGraphs Infrastructure for Deployment
 ## Team
 
 Alejandro Gener (lead)
+
 gener@bcm.edu; itspronouncedhenner@gmail.com 
+
 Baylor College of Medicine, Houston, TX, USA
 MD Anderson Cancer Center, Houston, TX, USA
 Universidad Central del Caribe, Bayamón, PR, USA
