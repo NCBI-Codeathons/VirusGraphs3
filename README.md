@@ -16,6 +16,8 @@ ckirby4@jhmi.edu<br />
 Johns Hopkins University School of Medicine, Baltimore, MD, USA<br />
 
 Zhao Liu<br />
+zhaol1@andrew.cmu.edu<br />
+Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA, USA<br />
 
 Rahil Sethi<br />
 
@@ -50,6 +52,7 @@ For split-read mapping, [HISAT2](https://ccb.jhu.edu/software/hisat2/index.shtml
 SWIGG_shinny
 IGV
 SnapGene
+Graphviz
 
 ## Results 
 
