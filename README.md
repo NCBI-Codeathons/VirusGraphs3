@@ -35,10 +35,10 @@ Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA, US
 
 ### Reference graphs
 
-[original SWIGG](https://github.com/NCBI-Codeathons/SWIGG)
-[implemented SWIGG](https://github.com/NCBI-Codeathons/Virus_Graphs)
-[NovoGene](https://github.com/NCBI-Hackathons/NovoGraph)
-[VG](https://github.com/vgteam/vg)
+For approximate k-mer graphs: [original SWIGG](https://github.com/NCBI-Codeathons/SWIGG)
+[implemented SWIGG](https://github.com/NCBI-Codeathons/Virus_Graphs).
+For nucleobase graphs: [NovoGene](https://github.com/NCBI-Hackathons/NovoGraph)
+[VG](https://github.com/vgteam/vg).
 
 ### Transcript modeling
 For split-read mapping, [HISAT2](https://ccb.jhu.edu/software/hisat2/index.shtml) was used, and output .bam was pipped into
