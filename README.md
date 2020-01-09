@@ -1,6 +1,9 @@
 # VirusGraphs3
 Solidifying the VirusGraphs Infrastructure for Deployment
 
-Workflow
+## Limitations of virus graphs
 
-![https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/Virus_Graphs_3_Workflow.pdf]
+## Workflow
+
+![](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/Virus_Graphs_3_Workflow.pdf)
+
