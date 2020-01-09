@@ -3,25 +3,25 @@ Solidifying the VirusGraphs Infrastructure for Deployment
 
 ## Team
 
-Alejandro Gener (lead) <br />
-gener@bcm.edu; itspronouncedhenner@gmail.com 
-Baylor College of Medicine, Houston, TX, USA
-MD Anderson Cancer Center, Houston, TX, USA
-Universidad Central del Caribe, Bayamón, PR, USA
+Alejandro Gener (lead)<br />
+gener@bcm.edu; itspronouncedhenner@gmail.com<br />
+Baylor College of Medicine, Houston, TX, USA<br />
+MD Anderson Cancer Center, Houston, TX, USA<br />
+Universidad Central del Caribe, Bayamón, PR, USA<br />
 
-Nicolas Cooley
+Nicolas Cooley<br />
 
-Charles Scott Kirby
-ckirby4@jhmi.edu
-Johns Hopkins University School of Medicine, Baltimore, MD, USA
+Charles Scott Kirby<br />
+ckirby4@jhmi.edu<br />
+Johns Hopkins University School of Medicine, Baltimore, MD, USA<br />
 
-Zhao Liu
+Zhao Liu<br />
 
-Rahil Sethi
+Rahil Sethi<br />
 
-Yutong Qiu
-yutongq@andrew.cmu.edu
-Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA, USA
+Yutong Qiu<br />
+yutongq@andrew.cmu.edu<br />
+Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA, USA<br />
 
 
 
