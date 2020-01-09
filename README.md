@@ -33,12 +33,21 @@ Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA, US
 
 ## Implementation
 
+### Reference graphs
+
 SWIGG - 
 NovoGene - 
 VG - 
+
+### Transcript modeling
 For split-read mapping, [HISAT2](https://ccb.jhu.edu/software/hisat2/index.shtml) was used, and output .bam was pipped into
 [StringTie](https://ccb.jhu.edu/software/stringtie/), both in [Galaxy](usegalaxy.eu).
 
+### Visualization
+
+SWIGG_shinny
+IGV
+SnapGene
 
 ## Results 
 
