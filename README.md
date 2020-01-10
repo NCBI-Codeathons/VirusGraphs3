@@ -1,5 +1,7 @@
 # VirusGraphs3
-Solidifying the VirusGraphs Infrastructure for Deployment
+Solidifying the Open Virus Graphs Infrastructure for Deployment
+
+*Note that the following information has been produced in a collaborative open-science format. It has not been peer-reviewed, and should not be construed as medical advice, nor should it be used to inform clinical practice.
 
 ## Are HIV-1 Graph Reference Genomes Right for Me?
 
@@ -73,7 +75,7 @@ Current NovoGraph script.. (TBD).
 
 ### for VG
 Graphs built with multiple sequence alignment algorithm:
-![VG built for HIV1 (6 seqs)](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/vg_prunes/msga_index.png)
+![VG built for HIV1 (6 seqs)](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/vg_prune/msga_index.png)
 
 
 ### HIV-1 transcript model
