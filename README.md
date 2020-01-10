@@ -68,7 +68,8 @@ Table of number of nodes and edges before and after contraction
 Current NovoGraph script.. (TBD).
 
 ### for VG
-
+Graphs built with multiple sequence alignment algorithm:
+![VG built for HIV1 (6 seqs)](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/vg_prune/msga_index.png)
 
 
 ### HIV-1 transcript model
