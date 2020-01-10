@@ -1,9 +1,9 @@
 # VirusGraphs3
 Solidifying the VirusGraphs Infrastructure for Deployment
 
-## *Are HIV-1 Graph Reference Genomes Right for Me?
+## Are HIV-1 Graph Reference Genomes Right for Me?
 
-Do you know what HIV sequence you're working with? If not, you're probably a clinician working with patient samples. If yes, you're probably a basic scientist wishing to control as many variables as possible. Either way, you'd want to maximize HIV sensitivity while maintaining HIV specificity. These questions can be asked with select linear reference genomes, multiple reference genomes, graph reference genomes, and a special case of multile linear reference genomes using transcript models.
+Do you know what HIV sequence you're working with? If not, you're probably a clinician working with patient samples. If yes, you're probably a basic scientist wishing to control as many variables as possible. Either way, you'd want to maximize HIV sensitivity while maintaining HIV specificity. These questions can be asked with appropriate linear reference genomes (standard), multiple reference genomes, graph reference genomes, and a special case of multile linear reference genomes using transcript models.
 
 ## Linear reference genomes
 
