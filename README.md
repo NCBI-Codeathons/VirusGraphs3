@@ -1,5 +1,7 @@
 # VirusGraphs3
-Solidifying the VirusGraphs Infrastructure for Deployment
+Solidifying the Open Virus Graphs Infrastructure for Deployment
+
+*Note that the following information has been produced in a collaborative open-science format. It has not been peer-reviewed, and should not be construed as medical advice, nor should it be used to inform clinical practice.*
 
 ## Are HIV-1 Graph Reference Genomes Right for Me?
 
@@ -14,9 +16,15 @@ Linear references are the gold standard for genomics applications, including cap
 
 ### Nucleobase graph reference genome
 
+More soon..
+
 ### Approximate k-mer graph reference genome
 
-## There's no HIV-1 trqanscript model
+More soon..
+
+## HIV-1 trqanscript model
+
+There is none!
 
 ## Scope
 
@@ -73,7 +81,7 @@ Current NovoGraph script.. (TBD).
 
 ### for VG
 Graphs built with multiple sequence alignment algorithm:
-![VG built for HIV1 (6 seqs)](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/vg_prunes/msga_index.png)
+![VG built for HIV1 (6 seqs)](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/vg_prune/msga_index.png)
 
 The above graph contains part of the virual graph genereated with multiple sequences alignment algorithm using vg. The line in the graph shows the possible connections between each necleo nodes. 
 
