@@ -62,7 +62,14 @@ Graphviz
 
 ### for SWIGG
 
-Current SWIGG script..
+![SWIGG built for kmer size = 16](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/swigg_figure/HIV2_graph_16.png)
+![SWIGG built for kmer size = 20](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/swigg_figure/HIV2_graph_20.png)
+
+![SWIGG built for kmer size = 32](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/swigg_figure/HIV2_graph_32.png)
+
+![SWIGG built for kmer size = 50](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/swigg_figure/HIV2_graph_50.png)
+![SWIGG built for kmer size = 90](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/swigg_figure/HIV2_graph_90.png)
+
 
 ### for NovoGraph
 
