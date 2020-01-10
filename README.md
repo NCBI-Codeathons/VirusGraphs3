@@ -1,7 +1,7 @@
 # VirusGraphs3
 Solidifying the Open Virus Graphs Infrastructure for Deployment
 
-*Note that the following information has been produced in a collaborative open-science format. It has not been peer-reviewed, and should not be construed as medical advice, nor should it be used to inform clinical practice.
+*Note that the following information has been produced in a collaborative open-science format. It has not been peer-reviewed, and should not be construed as medical advice, nor should it be used to inform clinical practice.*
 
 ## Are HIV-1 Graph Reference Genomes Right for Me?
 
