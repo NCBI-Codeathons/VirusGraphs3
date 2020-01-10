@@ -81,7 +81,7 @@ Current NovoGraph script.. (TBD).
 
 ### for VG
 Graphs built with multiple sequence alignment algorithm:
-![VG built for HIV1 (6 seqs)](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/vg_prune/msga_index.png)
+![VG built for HIV1 (6 seqs)](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/vg_prunes/msga_index.png)
 
 The above graph contains part of the virual graph genereated with multiple sequences alignment algorithm using vg. The line in the graph shows the possible connections between each necleo nodes. 
 
