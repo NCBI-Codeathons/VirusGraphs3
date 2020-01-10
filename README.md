@@ -1,35 +1,6 @@
 # VirusGraphs3
 Solidifying the VirusGraphs Infrastructure for Deployment
 
-## Team
-
-Alejandro Gener (lead)<br />
-gener@bcm.edu; itspronouncedhenner@gmail.com<br />
-Baylor College of Medicine, Houston, TX, USA<br />
-MD Anderson Cancer Center, Houston, TX, USA<br />
-Universidad Central del Caribe, Bayamón, PR, USA<br />
-
-Nicolas Cooley<br />
-npc19@pitt.edu<br />
-Department of Biomedical Informatics, University of Pittsburgh, Pittsburgh PA, USA,15206<br />
-
-
-Charles Scott Kirby<br />
-ckirby4@jhmi.edu<br />
-Johns Hopkins University School of Medicine, Baltimore, MD, USA<br />
-
-Zhao Liu<br />
-zhaol1@andrew.cmu.edu<br />
-Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA, USA<br />
-
-Rahil Sethi<br />
-
-Yutong Qiu<br />
-yutongq@andrew.cmu.edu<br />
-Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA, USA<br />
-
-
-
 ## Linear reference genomes aren't great..
 
 ![](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/limit_of_linear.png)
@@ -92,6 +63,32 @@ Current NovoGraph script..
 
 ### HIV-1 transcript model
 
+## Team & contact info
+
+Alejandro Gener (Lead/Corresponding Author)<br />
+gener@bcm.edu; itspronouncedhenner@gmail.com<br />
+Baylor College of Medicine, Houston, TX, USA<br />
+MD Anderson Cancer Center, Houston, TX, USA<br />
+Universidad Central del Caribe, Bayamón, PR, USA<br />
+
+Nicolas Cooley<br />
+npc19@pitt.edu<br />
+Department of Biomedical Informatics, University of Pittsburgh, Pittsburgh PA, USA,15206<br />
+
+
+Charles Scott Kirby<br />
+ckirby4@jhmi.edu<br />
+Johns Hopkins University School of Medicine, Baltimore, MD, USA<br />
+
+Zhao Liu<br />
+zhaol1@andrew.cmu.edu<br />
+Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA, USA<br />
+
+Rahil Sethi<br />
+
+Yutong Qiu<br />
+yutongq@andrew.cmu.edu<br />
+Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA, USA<br />
 
 
 
