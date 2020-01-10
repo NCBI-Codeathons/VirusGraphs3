@@ -46,7 +46,7 @@ Graphviz
 ### for SWIGG
 
 Graphs built with different k-mer lengths:
-![SWIGG built for HIV1 (6 seqs)](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/swigg_figure/HIV1_graph_merged.png)
+![SWIGG built for HIV1 (6 seqs)](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/swigg_figure/HIV2_graph_merged.png)
 
 The above figure contains 5 graphs built with different k-mer lengths. (a) k=16, (b) k=20, (c) k=32, (d) k=50, (e) k=90. Longer k-mers cover more repetitive regions. Therefore, longer k-mers result in simpler graphs. Red rectangles highlights the large loop topology in graphs made by small k-mers. The loops are the results of the repeititive k-mers in regions far apart. 
 
