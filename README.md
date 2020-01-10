@@ -83,7 +83,7 @@ Will add predicted isoform models soon..
 
 ## Team & contact info
 
-Alejandro Gener (Lead/Corresponding Author)<br />
+Alejandro Rafael Gener (Lead/Corresponding Author)<br />
 gener@bcm.edu; itspronouncedhenner@gmail.com<br />
 Baylor College of Medicine, Houston, TX, USA<br />
 MD Anderson Cancer Center, Houston, TX, USA<br />
