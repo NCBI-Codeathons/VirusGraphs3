@@ -34,12 +34,6 @@ In the original graph created by SWIGG without any filtering parameters, the num
 For split-read mapping, [HISAT2](https://ccb.jhu.edu/software/hisat2/index.shtml) was used, and output .bam was pipped into
 [StringTie](https://ccb.jhu.edu/software/stringtie/), both in [Galaxy](usegalaxy.eu).
 
-<img src="igv_snapshot_HXB2-mapping_reads_from_SRR3472915_v2.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-**Figure: cDNA+PCR DNAseq ("classic RNAseq").** A. Coverage summary of reads mapped to HXB2 K03455 with HISAT2 with usegalaxy.eu. B. RmDup-processed reads, controling for PCR duplicates after initial alignment. Search strategy = SRA. Searchterms: "HIV-1 and RNAseq and virus". Bioproject: PRJNA320293, specifically SRR3472915. Viewed in IGV.
-Source: From https://github.com/NCBI-Codeathons/Virus_Graphs/edit/master/README.md.
-
 ### Visualization
 
 SWIGG_shinny (future)
@@ -72,11 +66,21 @@ Table of number of nodes and edges before and after contraction
 
 ### for NovoGraph
 
-Current NovoGraph script..
+Current NovoGraph script.. (TBD).
 
 ### for VG
 
+
+
 ### HIV-1 transcript model
+
+<img src="igv_snapshot_HXB2-mapping_reads_from_SRR3472915_v2.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+**Figure: cDNA+PCR DNAseq ("classic RNAseq").** A. Coverage summary of reads mapped to HXB2 K03455 with HISAT2 with usegalaxy.eu. B. RmDup-processed reads, controling for PCR duplicates after initial alignment. Search strategy = SRA. Searchterms: "HIV-1 and RNAseq and virus". Bioproject: PRJNA320293, specifically SRR3472915. Viewed in IGV.
+Source: From https://github.com/NCBI-Codeathons/Virus_Graphs/edit/master/README.md.
+
+Will add predicted isoform models soon..
 
 ## Team & contact info
 
