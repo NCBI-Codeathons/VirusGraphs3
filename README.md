@@ -36,8 +36,7 @@ For split-read mapping, [HISAT2](https://ccb.jhu.edu/software/hisat2/index.shtml
 
 ### Visualization
 
-SWIGG_shinny (future)
-IGV (future)
+Gephi is used to visualize the output from SWIGG. 
 SnapGene
 Graphviz
 
