@@ -47,6 +47,9 @@ For approximate k-mer graphs: [original SWIGG](https://github.com/NCBI-Codeathon
 For nucleobase graphs: [NovoGene](https://github.com/NCBI-Hackathons/NovoGraph)
 [VG](https://github.com/vgteam/vg).
 
+#### Extension of SWIGG
+In the original graph created by SWIGG without any filtering parameters, the number of nodes are usually so large that it would result in inefficient visualization and other downstream analysis. Therefore, we implemented the algorithm to make a compact de Bruijn graph. Contraction of nodes starts by a depth-first-search from the source node of the graph. Nodes are included into a supernode continuously as the algorithm walks through the graph. A new supernode is created when the algorithm encounters a node with more than 1 neighbor. The size of the contracted graph is significantly reduced after contraction algorithm is applied (Table ?).
+
 ### Transcript modeling
 For split-read mapping, [HISAT2](https://ccb.jhu.edu/software/hisat2/index.shtml) was used, and output .bam was pipped into
 [StringTie](https://ccb.jhu.edu/software/stringtie/), both in [Galaxy](usegalaxy.eu).
