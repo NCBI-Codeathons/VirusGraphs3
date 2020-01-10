@@ -1,7 +1,9 @@
 # VirusGraphs3
 Solidifying the VirusGraphs Infrastructure for Deployment
 
-*insert Charley's figure*
+## Are HIV-1 Graph Reference Genomes Right for Me?
+
+Do you know what HIV sequence you're working with? If not, you're probably a clinician working with patient samples. If yes, you're probably a basic scientist wishing to control as many variables as possible. Either way, you'd want to maximize HIV sensitivity while maintaining HIV specificity. These questions can be asked with appropriate linear reference genomes (standard), multiple reference genomes, graph reference genomes, and a special case of multile linear reference genomes using transcript models.
 
 ## Linear reference genomes
 
@@ -13,6 +15,8 @@ Linear references are the gold standard for genomics applications, including cap
 ### Nucleobase graph reference genome
 
 ### Approximate k-mer graph reference genome
+
+## There's no HIV-1 trqanscript model
 
 ## Scope
 
