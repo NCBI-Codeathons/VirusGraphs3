@@ -10,6 +10,9 @@ MD Anderson Cancer Center, Houston, TX, USA<br />
 Universidad Central del Caribe, Bayamón, PR, USA<br />
 
 Nicolas Cooley<br />
+npc19@pitt.edu<br />
+Department of Biomedical Informatics, University of Pittsburgh, Pittsburgh PA, USA,15206<br />
+
 
 Charles Scott Kirby<br />
 ckirby4@jhmi.edu<br />
