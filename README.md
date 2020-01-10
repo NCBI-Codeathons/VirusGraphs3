@@ -22,7 +22,7 @@ More soon..
 
 More soon..
 
-## HIV-1 trqanscript model
+## HIV-1 transcript model
 
 There is none!
 
