@@ -16,9 +16,15 @@ Linear references are the gold standard for genomics applications, including cap
 
 ### Nucleobase graph reference genome
 
+More soon..
+
 ### Approximate k-mer graph reference genome
 
-## There's no HIV-1 trqanscript model
+More soon..
+
+## HIV-1 trqanscript model
+
+There is none!
 
 ## Scope
 
