@@ -26,7 +26,7 @@ More soon..
 
 There is none!
 
-![](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/VirusGraphs3/HIV-1_splicing_cartoon.tif)
+![](https://github.com/NCBI-Codeathons/VirusGraphs3/blob/master/HIV-1_splicing_cartoon.tif)
 
 ## Scope
 
