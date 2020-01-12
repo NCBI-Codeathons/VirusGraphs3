@@ -44,6 +44,8 @@ For approximate k-mer graphs: [original SWIGG](https://github.com/NCBI-Codeathon
 #### Extension of SWIGG
 In the original graph created by SWIGG without any filtering parameters, the number of nodes are usually so large that it would result in inefficient visualization and other downstream analysis. Therefore, we implemented the algorithm to make a compact de Bruijn graph. Contraction of nodes starts by a depth-first-search from the source node of the graph. Nodes are included into a supernode continuously as the algorithm walks through the graph. A new supernode is created when the algorithm encounters a node with more than 1 neighbor. The size of the contracted graph is significantly reduced after contraction algorithm is applied (Table ?).
 
+The algorithm to build and contract nodes in the de bruijn graph is the same as finding the maximal non-branching path. A description of the algorithm can be found [here](https://dodona.ugent.be/nl/exercises/746374412/).
+
 To run extension of Swigg, run `python3 swigg_ext.py -f seqfile.fasta -k kmer_length -o output prefix `
 
 ### Transcript modeling
