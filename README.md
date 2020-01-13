@@ -36,7 +36,7 @@ There is none!
 
 ### Reference graphs
 
-For nucleobase graphs: [NovoGene](https://github.com/NCBI-Hackathons/NovoGraph)
+For nucleobase graphs: [NovoGene](https://github.com/NCBI-Hackathons/NovoGraph), 
 [VG](https://github.com/vgteam/vg).
 
 For approximate k-mer graphs: [original SWIGG](https://github.com/NCBI-Codeathons/SWIGG), [implemented SWIGG](https://github.com/NCBI-Codeathons/Virus_Graphs).
