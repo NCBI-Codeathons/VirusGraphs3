@@ -113,7 +113,6 @@ Nicolas Cooley<br />
 npc19@pitt.edu<br />
 Department of Biomedical Informatics, University of Pittsburgh, Pittsburgh PA, USA,15206<br />
 
-
 Charles Scott Kirby<br />
 ckirby4@jhmi.edu<br />
 Johns Hopkins University School of Medicine, Baltimore, MD, USA<br />
